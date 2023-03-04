@@ -4,7 +4,5 @@ size: 3
 health: 600
 description: "Unloads Payloads up to 2x2 in size. Ideal for Payload Mass Drivers or Payload Conveyors"
 maxBlockSize: 3
-#hasPower: true
-#consumePower: 60
 buildVisibility: shown
 category: units

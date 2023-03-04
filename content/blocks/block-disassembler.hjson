@@ -4,7 +4,5 @@ size: 3
 health: 600
 description: "Deconstructs blocks up to 2x2 in size. Ideal for Payload Mass Drivers with Block Assemblers"
 maxPayloadSize: 2
-#hasPower: true
-#consumePower: 115
 buildVisibility: shown
 category: units
