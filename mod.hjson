@@ -1,10 +1,10 @@
 name: "payloader"
 displayName: "Serpulo-Payloader"
-main: "SerpuloPayloader.SerpuloPayloaderMod"
+//main: "SerpuloPayloader.SerpuloPayloaderMod"
 author: Lynohara
 description: "Adds more of Erekir's Payload System to Serpulo"
 subtitle: "Serpulo Payloads"
 version: "1.0"
-java: false
+java: true
 minGameVersion: "140"
 hidden: false
