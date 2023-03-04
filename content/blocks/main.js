@@ -1,2 +1,2 @@
-require("blocks");
-require("units");
+require("content/blocks");
+require("content/units");
