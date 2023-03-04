@@ -2,6 +2,7 @@ name: "payloader"
 displayName: "Serpulo-Payloader"
 author: Lynohara
 description: "Adds more of Erekir's Payload System to Serpulo"
+subtitle: "Serpulo Payloads"
 version: "1.0"
 minGameVersion: "140"
 hidden: false
