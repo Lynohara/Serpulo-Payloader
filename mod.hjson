@@ -4,5 +4,6 @@ author: Lynohara
 description: "Adds more of Erekir's Payload System to Serpulo"
 subtitle: "Serpulo Payloads"
 version: "1.0"
+java: true
 minGameVersion: "140"
 hidden: false
