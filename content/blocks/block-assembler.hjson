@@ -6,6 +6,6 @@ description: "Constructs blocks up to 2x2 in size. Ideal for Payload Mass Driver
 minBlockSize: 1
 maxBlockSize: 2
 hasPower: true
-consumePower: 100
+consumePower: 160
 buildVisibility: shown
-category: unit
+category: units
