@@ -7,10 +7,9 @@
     "maxBlockSize": 3,
     "hasPower": true,
     "consumes": {"power": 1.3},
-    "maxPowerUnload": 80,
+    "maxPowerUnload": 8000,
     "itemCapacity": 600,
-    "separateItemCapacity": true,
-    "offloadSpeed": 0,
+    "offloadSpeed": 100,
     "payloadSpeed": 1.2,
     "buildVisibility": "shown",
     "category": "units"

@@ -7,7 +7,7 @@
     "maxBlockSize": 3,
     "hasPower": true,
     "consumes": {"power": 2},
-    "itemsLoaded": 20,
+    "itemsLoaded": 80,
     "loadTime": 0,
     "timerLoad": 0,
     "payloadSpeed": 1.2,
