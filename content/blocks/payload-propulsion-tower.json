@@ -1,6 +1,6 @@
 {
     "type": "PayloadMassDriver",
-    "name": "Payload Mass Driver",
+    "name": "Payload Propulsion Tower",
     "size": 3,
     "health": 1200,
     "description": "Shoots Payloads up to 2x2 in size. Ideal for long distance Item, Fluid or even Unit transportation. Also a bit faster than Erekir's Mass Driver",
@@ -9,10 +9,6 @@
     "maxPayloadSize": 2,
     "chargeTime": 80,
     "reload": 20,
-    "baseRegion": "payload-propulsion-tower-base.png",
-    "capRegion": "payload-propulsion-tower-cap.png",
-    "leftRegion": "payload-propulsion-tower-left.png",
-    "rightRegion": "payload-propulsion-tower-right.png",
     "buildVisibility": "shown",
     "category": "units"
 }
