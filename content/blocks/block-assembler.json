@@ -7,7 +7,7 @@
     "minBlockSize": 1,
     "maxBlockSize": 2,
     "hasPower": true,
-    "consumes": {"power": 1},
+    "consumes": {"power": 3},
     "buildVisibility": "shown",
     "category": "units"
 }
