@@ -1,0 +1,14 @@
+{
+    "type": "payloadUnloader",
+    "name": "Payload Unloader",
+    "size": 3,
+    "health": 600,
+    "description": "Unloads Payloads up to 2x2 in size. Ideal for Payload Mass Drivers or Payload Conveyors",
+    "maxBlockSize": 3,
+    "hasPower": true,
+    "consumes": {"power": 1},
+    "maxPowerUnload": 80,
+    "offloadSpeed": 4,
+    "buildVisibility": "shown",
+    "category": "units"
+}
