@@ -8,9 +8,10 @@
     "hasPower": true,
     "consumes": {"power": 1.3},
     "maxPowerUnload": 80,
-    "itemCapacity": 300,
+    "itemCapacity": 600,
     "separateItemCapacity": true,
-    "offloadSpeed": 4,
+    "offloadSpeed": 0,
+    "payloadSpeed": 1.2,
     "buildVisibility": "shown",
     "category": "units"
 }

@@ -8,7 +8,9 @@
     "hasPower": true,
     "consumes": {"power": 2},
     "itemsLoaded": 20,
+    "loadTime": 0,
     "timerLoad": 0,
+    "payloadSpeed": 1.2,
     "buildVisibility": "shown",
     "category": "units"
 }

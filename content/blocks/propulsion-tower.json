@@ -2,7 +2,7 @@
     "type": "PayloadMassDriver",
     "name": "Propulsion Tower",
     "size": 5,
-    "health": 2000,
+    "health": 3000,
     "description": "Shoots Payloads up to 4x4 in size. Ideal for long distance Item, Fluid or even Unit transportation. Also faster than Erekir's Mass Driver Counter-Part",
     "hasPower": true,
     "consumes": {"power": 10},
@@ -11,6 +11,7 @@
     "chargeTime": 130,
     "grabWidth": 6,
     "reload": 75,
+    "payloadSpeed": 1.2,
     "buildVisibility": "shown",
     "category": "units"
 }

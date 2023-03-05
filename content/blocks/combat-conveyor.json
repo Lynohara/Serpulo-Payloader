@@ -1,0 +1,14 @@
+{
+    "type": "PayloadMassDriver",
+    "name": "Combat Conveyor",
+    "size": 4,
+    "health": 2000,
+    "description": "Smooth Payload Conveyor that won't jam your turrets, allowing them to get faster into the Payload Loaders for more ammo. Also accepts 5x5 Payloads for BIGGER TURRETS (*psst, turrets still shoot while in Payload state*)",
+    "hasPower": false,
+    "maxPayloadSize": 5,
+    "payloadSpeed": 1.2,
+    "range": 0,
+    "chargeTime": 9999999,
+    "buildVisibility": "shown",
+    "category": "units"
+}
