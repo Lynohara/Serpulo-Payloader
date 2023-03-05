@@ -7,10 +7,10 @@
     "hasPower": true,
     "consumes": {"power": 10},
     "maxPayloadSize": 3,
-    "range": 2000,
+    "range": 1300,
     "chargeTime": 130,
     "grabWidth": 6,
-    "reload": 35,
+    "reload": 75,
     "buildVisibility": "shown",
     "category": "units"
 }
