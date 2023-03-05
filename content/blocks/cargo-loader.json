@@ -1,6 +1,6 @@
 {
     "type": "payloadLoader",
-    "displayName": "Payload Loader",
+    "name": "Cargo Loader",
     "size": 3,
     "health": 600,
     "description": "Loads Payloads up to 2x2 in size. Ideal for Payload Mass Drivers or Payload Conveyors",
