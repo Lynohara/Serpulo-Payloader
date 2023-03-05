@@ -7,7 +7,7 @@
     "hasPower": true,
     "consumes": {"power": 10},
     "maxPayloadSize": 3,
-    "range": 200,
+    "range": 2000,
     "chargeTime": 130,
     "grabWidth": 11,
     "grabHeight": 3,
