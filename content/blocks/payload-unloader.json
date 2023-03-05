@@ -1,6 +1,6 @@
 {
     "type": "payloadUnloader",
-    "name": "Payload Unloader",
+    "displayName": "Payload Unloader",
     "size": 3,
     "health": 600,
     "description": "Unloads Payloads up to 2x2 in size. Ideal for Payload Mass Drivers or Payload Conveyors",
