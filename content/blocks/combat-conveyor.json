@@ -9,7 +9,7 @@
     "payloadSpeed": 1.2,
     "range": 0,
     "chargeTime": 9999999,
-    "grabWidth": 13,
+    "lenght": 0,
     "buildVisibility": "shown",
     "category": "units"
 }
