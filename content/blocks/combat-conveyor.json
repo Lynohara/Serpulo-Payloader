@@ -6,9 +6,7 @@
     "description": "Smooth Payload Conveyor that won't jam your turrets, allowing them to get faster into the Payload Loaders for more ammo. Also accepts 4x4 Payloads for BIGGER TURRETS (*psst, turrets still shoot while in Payload state*)",
     "hasPower": false,
     "maxPayloadSize": 4,
-    "payloadSpeed": 1.2,
     "range": 0,
-    "chargeTime": 9999999,
     "buildVisibility": "shown",
     "category": "units"
 }
